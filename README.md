@@ -1,16 +1,13 @@
 # Sql_Exploratory_Data_Analysis
 Exploratory Data Analysis (EDA) of a SQL Data Warehouse built from Gold-layer datasets to uncover actionable business insights.
 
-
 Welcome to the **Sql Exploratory Data Analytics Project** repository!
 
 This repository showcases an end-to-end data lifecycle project. It demonstrates a professional approach to data engineering and analytics, featuring automated cleaning scripts, clear documentations designed to drive informed business decisions.
 
 <br>
 
-
 *Note: The analysis techniques that are demonstrated in this project can be utilized on any data warehouses with some minor modifications.*
-
 
 ## Project Requirements
 
@@ -18,9 +15,7 @@ This repository showcases an end-to-end data lifecycle project. It demonstrates 
 
 - **Centralize data:** Build a modern data warehouse using **SQL Server** to consolidate sales data and streamline analytical reporting.
 
-
 - **Advanced Reporting:** Develop comprehensive reports on customer demographics and product performances using advanced SQL techniques.
-
 
 ### Technical Specifications
 
@@ -48,15 +43,13 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 <br>
 
-
 ## Project Structure
 
-- `/datasets/`: (Optional) Sample CSV files.
-- `/docs/`: documentations on the EDA queries.
+- `/datasets/`: Sample CSV files.
+- `/docs/`: Documentations on the EDA queries.
 - `/scripts/`: SQL scripts for schema creation, data loading, and advanced analytical queries.
 
 <br>
-
 
 ## Tech Stack & Tools
 - **Database Engine**: Microsoft SQL Server (Data Warehousing & Processing)
@@ -70,7 +63,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 Hello there. I'm Nandan M, an M.Sc. Physics graduate transitioning into Data Analytics. My background in physics has equipped me with rigorous analytical thinking and a passion for solving complex problems through data.
 <br>
-
 
 ## **License**
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this code for personal or commercial purposes. See the [LICENSE](LICENSE) file for more details.
